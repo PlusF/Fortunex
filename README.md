@@ -1,0 +1,2 @@
+# Fortunex
+Fortune telling application
